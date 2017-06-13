@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^hjem/?$ index.php [NC,L]
+RewriteRule ^om-oss/?$ om-oss.php [NC,L]
+RewriteRule ^sendt/?$ sendt.php [NC,L]
