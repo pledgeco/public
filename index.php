@@ -46,8 +46,8 @@
 			<section id="banner">
 				<div class="inner">
 
-					<h1><strong>Verdens eneste smarthus løsning for boligblokker </strong>
-					</h1><h2 style="margin-top:-25px; margin-bottom:35px;">- Skreddersydd for deg</h2>
+					<h1><strong>Verdens eneste smarthusløsning for boligblokker </strong>
+					</h1>
 					<ul class="actions">
 
 
@@ -72,7 +72,7 @@
 
 }
 			.mid-image {
-				width:100% !important; height:380px; !important; background-size:cover;
+				width:100% !important; height:auto; !important; background-size:cover;
 			}
 			.tabs .titles li {
 				-moz-transition-property: color, background-color;
@@ -220,7 +220,7 @@
     width:100%;
 			}
 			.mid-image {
-				width:100% !important; height:200px; !important; background-size:cover;
+				width:100% !important; height:auto; !important; background-size:cover;
 			}
 
    		}
@@ -247,7 +247,7 @@
 
 								<article class="icon fa-users">
 									<h3>Enkel administrasjon</h3>
-									<p>Styret i borettslaget administrerer DingDong fra en webside. Pek, klikk og dra, alle endringer gjøres raskt og effektivt og oppdateres i systemet automatisk.</p>
+									<p>Styret i borettslaget administrerer DingDong fra en webside. Pek, klikk og dra, alle endringer gjøres raskt, effektivt og oppdateres i systemet</p>
 								</article>
 								<article class="icon fa-bullseye">
 									<h3>Alarmintegrasjon</h3>
@@ -255,7 +255,7 @@
 								</article>
 							</div>
 
-							<h2 style="margin-top:10px; margin-bottom:15px; font-size:24px;">Last ned DingDong</h2>
+							<h2 style="margin-top:10px; margin-bottom:15px; font-size:24px;">Last ned DingDong appen</h2>
 							<a href="https://itunes.apple.com/no/app/dingdongme/id1154519083?l=nb&mt=8" target"_blank"><img src="/images/app1.png" class="last-ned"></a> 	<a href="https://play.google.com/store/apps/details?id=com.dingdongme.DDAndroid" target="_blank"><img src="/images/google1.png" class="last-ned"></a>
 
 						</section>
@@ -293,7 +293,7 @@
 				<div class="inner">
 					<div class="split">
 						<section>
-							<h2>DingDong har markedets største og mest høyoppløselige touchskjerm</h2>
+							<h2>DingDong dekker alle dine behov</h2>
 							<span class="image fit"><img src="images/oversikten-ding.png" alt="" /></span>
 
 						</section>
@@ -484,7 +484,7 @@
 							<img src="images/key1.png"></img>
 							<h1>Støtter alle adgangskort</h1>
 							<p>
-								Noe av det vi liker best med DingDong er at du kan bruke et hvilket som helst adgangskort eller brikke<br /> for å åpne døren. Du kan for eksempel bruke det adgangskortet du har på jobben, den brikken du bruker til smartlåsen din inn til leieligheten, har du en mobiltelefon med NFC kan du bruke den og du kan til og med bruke VISA kortet eller passet ditt.
+								Noe av det vi liker best med DingDong er at du kan bruke et hvilket som helst adgangskort eller brikke<br /> for å åpne døren. Du kan for eksempel bruke det adgangskortet du har på jobben, den brikken du bruker til smartlåsen din inn til leilighet, har du en mobiltelefon med NFC kan du bruke den og du kan til og med bruke VISA kortet eller passet ditt.
 							</p><br />
 							<h3>Mer informasjon om adgangskort?</h3>
 							<a href="#kontakt" class="button">Kontakt oss</a>
